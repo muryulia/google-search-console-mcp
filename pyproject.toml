@@ -33,7 +33,7 @@ dependencies = [
 dev = [
   "build>=1.2,<2",
   "pytest>=8.4,<9",
-  "pytest-cov>=6.2,<7",
+  "pytest-cov>=6.2,<8",
   "ruff>=0.12,<1",
   "tomli>=2.2,<3; python_version < '3.11'",
 ]
